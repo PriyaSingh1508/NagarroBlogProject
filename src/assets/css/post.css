@@ -1,0 +1,10 @@
+.post-content{
+    word-wrap: break-word;
+    overflow: auto;
+    white-space: normal;
+    
+}
+
+.post-img{
+    width: 100%;
+}
